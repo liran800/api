@@ -1,0 +1,10 @@
+---
+applications:
+- instances: 1
+  timeout: 180
+  name: Comfy
+  buildpack: java_buildpack
+  path: ./target/Comfy-1.0-SNAPSHOT.jar
+  memory: 1024M
+  domain: mybluemix.net
+  host: comfy
