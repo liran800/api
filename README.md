@@ -5,7 +5,7 @@ tables are created automatic in the db.
 no need to write sql.
 simple -> develop faster -> less code
 The project will generate automatic SWAGGER API DOC.
-
+Using projectlumboc to reduce code. no need to write getters, setters and more ... [https://projectlombok.org/]
 
 
 You can ask for free account on the cloud with AWS / AJURE / IBM.  this example is with IBM cloud.
