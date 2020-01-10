@@ -26,7 +26,7 @@ public class Swagger2Config {
     private ApiInfo apiEndPointsInfo() {
         return new ApiInfoBuilder().title("Spring Boot REST API")
                 .description("Employee Management REST API")
-                .contact(new Contact("Liran", "www.compy-ai.com", "info@compy-ai.com"))
+                .contact(new Contact("Liran", "https://www.linkedin.com/in/liran800/", "))
                 .license("Apache 2.0")
                 .licenseUrl("http://www.apache.org/licenses/LICENSE-2.0.html")
                 .version("1.0.0")
