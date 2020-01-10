@@ -1,6 +1,6 @@
 Author : liran lahav. [ https://www.linkedin.com/in/liran800/ ]
 
-This is an example project how to use Spring Boot API with SPRING DATA
+Example project how to use Spring Boot API, with SPRING DATA.
 tables are created automatic in the db.
 no need to write sql.
 simple -> develop faster -> less code
